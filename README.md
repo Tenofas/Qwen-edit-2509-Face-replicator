@@ -1,6 +1,6 @@
 # Qwen Edit 2509 Face Replicator WF - ComfyUI Workflow
 
-![Preview](assets/preview.png)
+![Preview](assets/Qwen-Consistent faces.png)
 
 ## 📖 Description
 
